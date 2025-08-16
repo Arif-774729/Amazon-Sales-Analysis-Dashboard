@@ -3,7 +3,7 @@
 1. **Business Requirement Document (BRD)**
    - Defined problem statement, KPIs, and stakeholder needs.
    - Outlined metrics: Total Profit, Total Revenue, Units Sold, Avg. Shipment Days.
-   - Set dashboard navigation structure: Homepage → Executive Page → Revenue Analysis.
+   - Set dashboard navigation structure: Homepage → Executive Page → Revenue Analysis → Item Analysis
 
 2. **Wireframe Design**
    - Created layout sketches for KPI placement, charts, and navigation flow.
@@ -39,7 +39,7 @@
 ---
 
 ## 🔗 Dashboard Link
-[View Tableau Public Dashboard](#)  <!-- Replace with your actual Tableau Public link -->
+[View Tableau Public Dashboard](#) 
 
 ---
 
